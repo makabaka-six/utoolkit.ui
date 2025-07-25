@@ -1,0 +1,18 @@
+{
+    "name": "UToolkit.UI",
+    "rootNamespace": "",
+    "references": [
+        "GUID:d0148167263fa294ba4f0fac64904a85"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
