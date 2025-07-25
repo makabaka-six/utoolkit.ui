@@ -1,7 +1,9 @@
 {
   "dependencies": {
-    "com.unity.ide.rider": "3.0.16",
+    "com.unity.ide.rider": "3.0.36",
+    "com.unity.toolchain.win-x86_64-linux-x86_64": "2.0.10",
     "com.unity.ugui": "1.0.0",
+    "utoolkit.publish": "1.0.2",
     "com.unity.modules.ai": "1.0.0",
     "com.unity.modules.androidjni": "1.0.0",
     "com.unity.modules.animation": "1.0.0",
@@ -29,5 +31,14 @@
     "com.unity.modules.unitywebrequesttexture": "1.0.0",
     "com.unity.modules.unitywebrequestwww": "1.0.0",
     "com.unity.modules.vehicles": "1.0.0"
-  }
+  },
+  "scopedRegistries": [
+    {
+      "name": "UToolkit",
+      "url": "https://registry.npmjs.com",
+      "scopes": [
+        "utoolkit"
+      ]
+    }
+  ]
 }
